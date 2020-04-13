@@ -1,0 +1,10 @@
+.secondTask, .thirdTask {
+    text-align: center;
+}
+.taskNum {
+    border: 3px solid rebeccapurple;
+    border-radius: 10px;
+    width: max-content;
+    font-size: 25px;
+    font-weight: 600;
+}
